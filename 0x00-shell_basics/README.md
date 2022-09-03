@@ -1,1 +1,1 @@
-create a symbolic link
+Write a script that lists all files
