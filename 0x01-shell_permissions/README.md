@@ -1,1 +1,1 @@
-Write a script that changes the group owner to school
+Write a script that changes the owner to vincent
